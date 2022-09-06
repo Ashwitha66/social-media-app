@@ -3,11 +3,10 @@ Wooble is a fully functional social media app with multiple features built with 
 
 
 
-## ✨ Requirements
+##  Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 * A little knowledge of Dart and Flutter
-* A brain to think 🤓🤓
 
 ## Features
  * Custom photo feed 
