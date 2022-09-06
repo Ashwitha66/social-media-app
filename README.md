@@ -1,7 +1,7 @@
-# 🔥🔥 Wooble Social Media App  [![Twitter Follow](https://img.shields.io/twitter/follow/CharlyKeleb.svg?style=social)](https://twitter.com/CharlyKeleb)
+
 Wooble is a fully functional social media app with multiple features built with flutter and dart.
 
-Star⭐ the repo if you like what you see😉.
+
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
@@ -30,15 +30,7 @@ Star⭐ the repo if you like what you see😉.
  * Used Provider to manage state
  
 
-## Screenshots
-<p>
-<img src="ss/w10.jpg" width="400"/> <img src="ss/w11.jpg" width="400"/>
-<img src="ss/w12.jpg" width="400"> <img src="ss/w7.jpg" width="400">
-<img src="ss/w8.jpg" width="400"> <img src="ss/w1.jpg" width="400">
-<img src="ss/w9.jpg" width="400"> <img src="ss/w5.jpg" width="400">
-<img src="ss/w4.jpg" width="400"> <img src="ss/w2.jpg" width="400">
-<img src="ss/w3.jpg" width="400"> <img src="ss/w6.jpg" width="400">
-</p>
+
 
 
 ## Installation
@@ -91,5 +83,4 @@ Double check install instructions for both
  - [] Sending and Uploading Videos
 
 
-## 🤓 Author(s)
-**Charly Keleb CharlyKeleb** [![Twitter Follow](https://img.shields.io/twitter/follow/Charlykeleb.svg?style=social)](https://twitter.com/Charlykeleb)
+
